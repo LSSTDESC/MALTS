@@ -1,4 +1,4 @@
-<a href="" target_="blank"><img src="https://drive.google.com/file/d/1NvUrUz2QlfNpAEi6J-7xqIw2u5RkKgx2/view?usp=sharing" width="1000"></a>
+<a href="" target_="blank"><img src="http://drive.google.com/uc?export=view&id=1NvUrUz2QlfNpAEi6J-7xqIw2u5RkKgx2" width="1000"></a>
 
 # Machine Learning for Transient Science (MALTS) Topical Team
 ---

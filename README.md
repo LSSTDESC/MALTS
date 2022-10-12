@@ -1,4 +1,4 @@
-<a href="" target_="blank"><img src="https://uofi.box.com/s/4zvn7h6c2ihvjnmwcpkccxv53inpo73v" width="400"></a>
+<a href="" target_="blank"><img src="https://uofi.box.com/shared/static/4zvn7h6c2ihvjnmwcpkccxv53inpo73v.png" width="1000"></a>
 
 # Machine Learning for Transient Science (MALTS) Topical Team
 ---

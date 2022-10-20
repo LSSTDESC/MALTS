@@ -2,7 +2,7 @@
 name: Tutorial Request
 about: Propose a new idea for a tutorial
 title: "[Tutorial] Your idea for a tutorial"
-labels: tutorial request
+labels: ''
 assignees: ''
 
 ---

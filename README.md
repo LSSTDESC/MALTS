@@ -7,7 +7,7 @@ The Machine Learning for Transient Science (MALTS) Topical Team within DESC is c
 
 * *Thursday, October 27th, 2022:* First meeting, general structure and meeting goals.
 
-To request a new machine learning tutorial, please click [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=tutorial+request&template=tutorial_request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial) (template borrowed from the awesome [CosmoStat Laboratory!](https://github.com/CosmoStat))
+To request a new machine learning tutorial, please click [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=tutorial+request&template=tutorial_request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial). Have you seen a paper you'd like to discuss? Add it as an issue [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=&template=paper-discussion-request.md&title=%5BPaper+Discussion+Request%21%5D) (template borrowed from the awesome [CosmoStat Laboratory](https://github.com/CosmoStat))!
 
 If you have a question about the group, please reach out to co-leads Alex Gagliano (gaglian2@illinois.edu) or Benjamin Remy (benjamin.remy@cea.fr). 
 

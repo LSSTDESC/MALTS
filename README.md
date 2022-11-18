@@ -1,4 +1,4 @@
-<a href="" target_="blank"><img src="https://dl.boxcloud.com/d/1/b1!BXJRGJ5ZUxbx2WqzcyCwaYQiWJH2G3lUMxudPLYczyuRqhBE9ALWP0FMZlLMl2fWshpLQ2hna_yP6cUvlFi5_Qa0-PORmjvP8-pr7bQ7roBdxv2h2MRfXotlwL9Y6Vkvr-UOMbI_Qi6P9toOBrLrlx2vTbPzW4y1bcr2IJ1-JibjBEXjj1oNe5n0i2LrDLE8VJLMcC66yFI74vpa894Bk6NmklkFZz7TpVixnCvq1RkIdiES-8OxpDh8QvPH3bLTftHJtVWoCtipECvm3rcv7IdeqrFylInYk2ikOYglCWk3cRnGfYcu5beKF0UYM8LOxWOExJzix-WgtcbADYTmwYBWDBvf20k1SJKtrvngvFdhsSMLb-99SJjrrwplaRTcbVwWTAfUOe8JoLGwQSMKX8AfICQGFBoI4gYKJmVM5ENUcAhw5oLcBkZDGkbk_rFhvuUMoMxV14vTMfhSClwPmeg0_cTL3x-ZPDcAPL8g76a9DiM1Yv5vcjhc4gIHuxaERtSjg9JJf24AdKoaeJtWJJTzN4E9KdM8z0-YLmJmiTcT4IPowMsppQJYcmGMmTDS91jUCdLzXPsOIV68iBuVw43sD23_4ASQr-oqr0SenlPWd7SjnD_sm0_pGXn79bzdB253YxBvyH-C_gP1Y-R5nnLDVwIp5QDhjOQvvFDQUAvopJ9Y1RMWoNHWQzS5SEpfHCCjDeB9JKLvb_joXxyjmqSp7E3YO8Hie6ayCh-xtDqCU0X3RZgPo8l3G3qahLW-kjI6x4c6xFpxKimuRxdH4qrTHlk1TAIrQz5tr2BrbEPNPzmtSJbeqj16Tky7JsZB7rNGi89PoRhvWKmYELxKej8y54LuI8fXt07-mGBJgs8WsXsmjSprxphne_olNAG9hnGd82am_VG0x9MyxYAr5ftjUk5nB6Piuz9p3BFIlUnmXn43_Y3DHMCRvx6Ig9o5HiwuxUbRAD3WjfPKCxuq1dVFfDxI5lFZLJ2-K_eT7G491gWF50PmmyBakvfUQ35s4MUD6FBDnfBdtUkgLLEotHOOPrCJKIEG3EcStTCsoRY8njg-bClXvG1-yLgw1ijQkkNZtkM64kTkRFMbuvM24nwUV80z1Ot6Ow_s0kDPfJrNya9MQFWmuw55LUw8bTcPZBZyJcsPERLr6yOBz_9APP5tzQqZXxdQBTJTPTezYtT4N-5VwzjQNo-ngdJSgE9bVrXuiMC8ac_4Li67HDNFERnVN9oiddCb_yLgitsHMDdlR5gB4wTtGMUbjxaVHnlGJ1hsc9T8A-OXqBcgS6GYsCrigsJfC0wy_j9mgYnTQ-TlZYlZXw03Bgrd4dcz50zMAbZVkMROD1cB_J4SQ2zuQ2rNqn0p_kidvC6F-V-RuoF9HE11umfEgtIfzwdAI9GUwNaO4s4Z-Iq5WbY8nQ../download" width="1000"></a>
+<a href="" target_="blank"><img src="http://drive.google.com/uc?export=view&id=1NvUrUz2QlfNpAEi6J-7xqIw2u5RkKgx2" width="1000"></a>
 
 # Machine Learning for Transient Science (MALTS) Topical Team
 ---
@@ -7,7 +7,7 @@ The Machine Learning for Transient Science (MALTS) Topical Team within DESC is c
 
 * *Thursday, October 27th, 2022:* First meeting, general structure and meeting goals.
 
-To request a new machine learning tutorial, please click [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=tutorial+request&template=tutorial_request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial) (template borrowed from the awesome [CosmoStat Laboratory!](https://github.com/CosmoStat))
+To request a new machine learning tutorial, please click [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=tutorial+request&template=tutorial_request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial). Have you seen a paper you'd like to discuss? Add it as an issue [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=&template=paper-discussion-request.md&title=%5BPaper+Discussion+Request%21%5D) (template borrowed from the awesome [CosmoStat Laboratory](https://github.com/CosmoStat))!
 
 If you have a question about the group, please reach out to co-leads Alex Gagliano (gaglian2@illinois.edu) or Benjamin Remy (benjamin.remy@cea.fr). 
 

@@ -5,7 +5,8 @@
 
 The Machine Learning for Transient Science (MALTS) Topical Team within DESC is committed to the advancement of statistical tools for studying the variable sky. With the advent of the Vera Rubin Observatory's Legacy Survey for Space and Time starting in 2024, automated approaches to data anlysis will become increasingly valuable. At our tri-weekly meetings, we aim to discuss new papers in the field, offer tutorials for popular ML methods, and highlight current ML-oriented projects within DESC.
 
-* *Thursday, October 27th, 2022:* First meeting, general structure and meeting goals.
+* *October 27th, 2022:* First meeting, general structure and meeting goals.
+* *November 17th, 2022:* Survey discussion, Graph Neural Networks and CNNs for DIA.
 
 To request a new machine learning tutorial, please click [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=tutorial+request&template=tutorial_request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial). Have you seen a paper you'd like to discuss? Add it as an issue [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=&template=paper-discussion-request.md&title=%5BPaper+Discussion+Request%21%5D) (template borrowed from the awesome [CosmoStat Laboratory](https://github.com/CosmoStat))!
 

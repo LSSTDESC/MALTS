@@ -7,6 +7,7 @@ The Machine Learning for Transient Science (MALTS) Topical Team within DESC is c
 
 * *October 27th, 2022:* First meeting, general structure and meeting goals.
 * *November 17th, 2022:* Survey discussion, Graph Neural Networks and CNNs for DIA.
+* *December 1st, 2022:* Introduction to autodifferentiation with JAX, Normalizing Flows with PZFlow.
 
 To request a new machine learning tutorial, please click [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=tutorial+request&template=tutorial_request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial). Have you seen a paper you'd like to discuss? Add it as an issue [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=&template=paper-discussion-request.md&title=%5BPaper+Discussion+Request%21%5D) (template borrowed from the awesome [CosmoStat Laboratory](https://github.com/CosmoStat))!
 

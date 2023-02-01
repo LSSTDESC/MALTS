@@ -9,7 +9,7 @@ The Machine Learning for Transient Science (MALTS) Topical Team within DESC is c
 * *November 17th, 2022:* Survey discussion, Graph Neural Networks and CNNs for DIA.
 * *December 1st, 2022:* Introduction to autodifferentiation with JAX, Normalizing Flows with PZFlow.
 * *December 15th, 2022:* Hack session on Normalizing Flows.
-* *January 25th, 2023:* Bayesian inference with Rubin Supernovae and Galaxies.
+* *January 25th, 2023:* [Bayesian inference with Rubin Supernovae and Galaxies](https://docs.google.com/presentation/d/1zsnvym7X6IK02YySy8F5eLB9j4yxoeyI-8-namxOq5Q/edit?usp=sharing).
 
 To request a new machine learning tutorial, please click [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=tutorial+request&template=tutorial_request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial). Have you seen a paper you'd like to discuss? Add it as an issue [here](https://github.com/LSSTDESC/MALTS/issues/new?assignees=&labels=&template=paper-discussion-request.md&title=%5BPaper+Discussion+Request%21%5D) (template borrowed from the awesome [CosmoStat Laboratory](https://github.com/CosmoStat))!
 
